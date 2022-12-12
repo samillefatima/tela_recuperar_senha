@@ -1,0 +1,23 @@
+.t{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+.b{
+    border:  rgb(155, 162, 180);
+    background-color: rgb(155, 162, 180);
+    color: white;
+    width: 110px;
+    height: 25px;
+    margin-left: 78px;
+
+}
+
+fieldset{
+    width: 280px;
+    height: 230px;
+}
